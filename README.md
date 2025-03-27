@@ -13,6 +13,6 @@ This is a simple and elegant personal portfolio website built using **HTML, CSS,
 - **JavaScript** – Adds interactivity and form handling  
 
 ## 📷 Preview  
-![Portfolio Screenshot](<!-- Uploading "Screenshot 2025-03-27 123249.png"... -->)
+![Portfolio Screenshot](https://github.com/Zakha123-cyber/portofolio-html-native/blob/main/Preview1.png?raw=true)
 
 
