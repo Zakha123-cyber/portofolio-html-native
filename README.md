@@ -14,5 +14,6 @@ This is a simple and elegant personal portfolio website built using **HTML, CSS,
 
 ## 📷 Preview  
 ![Portfolio Screenshot](https://github.com/Zakha123-cyber/portofolio-html-native/blob/main/Preview1.png?raw=true)
+![Portfolio Screenshot](https://github.com/Zakha123-cyber/portofolio-html-native/blob/main/Preview2.png?raw=true)
 
 
