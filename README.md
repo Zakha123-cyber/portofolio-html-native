@@ -13,6 +13,6 @@ This is a simple and elegant personal portfolio website built using **HTML, CSS,
 - **JavaScript** – Adds interactivity and form handling  
 
 ## 📷 Preview  
-![Portfolio Screenshot](https://via.placeholder.com/800x400) *(Replace with your actual screenshot)*  
+![Portfolio Screenshot](<!-- Uploading "Screenshot 2025-03-27 123249.png"... -->)
 
 
