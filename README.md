@@ -15,8 +15,4 @@ This is a simple and elegant personal portfolio website built using **HTML, CSS,
 ## 📷 Preview  
 ![Portfolio Screenshot](https://via.placeholder.com/800x400) *(Replace with your actual screenshot)*  
 
-## 🚀 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
 
